@@ -3,7 +3,7 @@
 
 - 🔭 Estoy trabajando en [WOOFER](https://github.com/germiiii/Woofer)
 
-- 🌱 Actualemente esto terminando **BootCamp SoyHenry**
+- 🌱 Actualemente estoy terminando **BootCamp SoyHenry**
 
 - 💬 Preguntame sobre **react, redux, next.js14, node.js**
 
