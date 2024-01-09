@@ -7,7 +7,7 @@
 
 - 💬 Preguntame sobre **react, redux, next.js14, node.js**
 
-- 📫 Como contactarme **esteban.scalerandi@mi.unc.edu.ar**
+- 📫 Como contactarme **teten08@hotmail.comm**
 
 - ⚡ Hobbies **Soy una persona creativa, disfrutando nuevos desafíos constantemente.**
 
