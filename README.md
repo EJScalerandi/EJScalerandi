@@ -7,7 +7,7 @@
 
 - 💬 Preguntame sobre **react, redux, next.js14, node.js**
 
-- 📫 Como contactarme **teten08@hotmail.comm**
+- 📫 Como contactarme **teten08@hotmail.com**
 
 - ⚡ Hobbies **Soy una persona creativa, disfrutando nuevos desafíos constantemente.**
 
